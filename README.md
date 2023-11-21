@@ -31,7 +31,7 @@ Utilize os scripts Python fornecidos para interagir com o sistema, incluindo o c
 Contribuições:  
 Contribuições são bem-vindas! Sinta-se à vontade para sugerir melhorias, relatar problemas.
 
-Autores:       
-Anna Lua Frisa;
-Cauã Victor de Moura;
-Hugo.
+Autores:         
+Anna Lua Frisa;  
+Cauã Victor de Moura;  
+Hugo.  
