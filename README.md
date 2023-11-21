@@ -21,7 +21,7 @@ Oferece uma interface de consulta intuitiva para encontrar produtos com base em 
 Apresenta os resultados de maneira organizada e legível.
 
 Tecnologias Utilizadas:
-Linguagem de Programação: Python
+Linguagem de Programação: Python.
 Banco de Dados: SQL (Structured Query Language)
 
 Instruções de Uso:
