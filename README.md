@@ -34,4 +34,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para sugerir melhorias, rel
 Autores:         
 Anna Lua Frisa;  
 Cauã Victor de Moura;  
-Hugo.  
+Hugo Martins Bassi.  
