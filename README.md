@@ -32,6 +32,6 @@ Contribuições:
 Contribuições são bem-vindas! Sinta-se à vontade para sugerir melhorias, relatar problemas.
 
 Autores:
-Anna Lua Frisa
-Cauã Victor de Moura
+Anna Lua Frisa,
+Cauã Victor de Moura.
 
