@@ -1,5 +1,6 @@
 # programapython
 
+
 Resumo do Projeto: Sistema de Gerenciamento de Produtos e Preços em Python e SQL
 
 Descrição:
@@ -34,4 +35,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para sugerir melhorias, rel
 Autores:
 Anna Lua Frisa,
 Cauã Victor de Moura.
-
